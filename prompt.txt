@@ -1,0 +1,1 @@
+Insert your freeform prompt in this file, see "sample_prompt.txt" for an example

@@ -1,0 +1,4 @@
+input_data_file="sample_llm_inputs.xlsx"
+output_data_file="sample_llm_outputs.xlsx"
+api_key= "IBM_Cloud_API_KEY"
+project_id = "watsonx.ai project id"
